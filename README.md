@@ -3,6 +3,8 @@
 A lightweight, pure Python implementation of a Unix-like shell with essential built-in commands and features.
 This was built following the CodeCrafters [Build your own Shell](https://app.codecrafters.io/courses/shell/overview) Course.
 
+![image](https://github.com/user-attachments/assets/6b2eabbb-2940-4a4a-97dd-ebc772765835)
+
 ## Features
 
 - Core shell functionality with command execution
