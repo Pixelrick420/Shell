@@ -1,6 +1,7 @@
 # SimpleShell
 
 A lightweight, pure Python implementation of a Unix-like shell with essential built-in commands and features.
+This was built following the CodeCrafters [Build your own Shell](https://app.codecrafters.io/courses/shell/overview) Course.
 
 ## Features
 
