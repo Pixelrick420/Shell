@@ -22,7 +22,7 @@ Simply download the script and run it with Python 3:
 ```bash
 git clone https://github.com/Pixelrick420/Shell.git
 cd Shell
-pip install pyreadline3 //this becomes readline on linux/macOs
+pip install pyreadline3 #this becomes readline on linux/macOs
 python3 shell.py
 ```
 
